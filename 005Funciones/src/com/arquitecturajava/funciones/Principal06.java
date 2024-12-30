@@ -9,7 +9,7 @@ public class Principal06 {
 		// no una copia
 		duplicar(lista);
 
-		// los numeos tienen que salir duplicados
+		// los numeros tienen que salir duplicados
 		imprimir(lista);
 
 	}
